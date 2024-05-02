@@ -1,0 +1,10 @@
+﻿  Action.test.cpp
+  Event.test.cpp
+  GameObject.test.cpp
+     Creating library C:\Dev\Students\CH20\Jordan.Diaz\Prog 2\FieaGameEngine\lib\Win32-Release\FieaGameEngine.test.lib and object C:\Dev\Students\CH20\Jordan.Diaz\Prog 2\FieaGameEngine\lib\Win32-Release\FieaGameEngine.test.exp
+  Generating code
+  274 of 3567 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    252 functions were new in current compilation
+    255 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FieaGameEngine.test.vcxproj -> C:\Dev\Students\CH20\Jordan.Diaz\Prog 2\FieaGameEngine\lib\Win32-Release\FieaGameEngine.test.dll
