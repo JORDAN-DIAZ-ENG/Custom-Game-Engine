@@ -45,12 +45,5 @@ int main() {
 }
 ```
 
-## Contributing
-Contributions to this repository are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the README further to better fit your repository's specifics and style. Let me know if you need any more assistance!
