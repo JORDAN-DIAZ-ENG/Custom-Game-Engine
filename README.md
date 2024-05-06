@@ -1,7 +1,5 @@
-Semester long engine project
 
 # Custom-Game-Engine
-
 This engine is a comprehensive framework comprised of various components, each playing a pivotal role in empowering game development. Let's delve into the core elements that form the backbone of this engine.
 
 ## Datum: Dynamic Runtime Polymorphic Type
