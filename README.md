@@ -1,7 +1,5 @@
 # Custom-Game-Engine
 
----
-
 ## Overview
 This repository provides a flexible data type, `Datum`, capable of dynamically adapting to various data types during runtime. Whether you're working with integers, floating-point numbers, strings, vectors, matrices, or RTTI.
 
